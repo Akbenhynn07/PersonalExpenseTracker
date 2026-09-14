@@ -1,0 +1,28 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Backup and temp files
+*.tmp
+*.bak
+expenses_corrupt_*.json
+*.corrupt_*.bak
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

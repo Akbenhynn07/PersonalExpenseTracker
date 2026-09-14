@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "date": "2026-09-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 75000.0,
+    "description": "Monthly Salary"
+  },
+  {
+    "id": 2,
+    "date": "2026-09-02",
+    "type": "expense",
+    "category": "Rent & Housing",
+    "amount": 18000.0,
+    "description": "Apartment rent"
+  },
+  {
+    "id": 3,
+    "date": "2026-09-03",
+    "type": "expense",
+    "category": "Groceries",
+    "amount": 4500.0,
+    "description": "Monthly supermarket groceries"
+  },
+  {
+    "id": 4,
+    "date": "2026-09-05",
+    "type": "expense",
+    "category": "Utilities & Bills",
+    "amount": 1850.0,
+    "description": "Electricity & broadband bill"
+  },
+  {
+    "id": 6,
+    "date": "2026-09-08",
+    "type": "expense",
+    "category": "Food & Dining",
+    "amount": 1250.0,
+    "description": "Weekend dinner with friends"
+  },
+  {
+    "id": 7,
+    "date": "2026-09-10",
+    "type": "expense",
+    "category": "Transportation",
+    "amount": 800.0,
+    "description": "Metro recharge & cab fares"
+  },
+  {
+    "id": 8,
+    "date": "2026-09-12",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 699.0,
+    "description": "OTT streaming subscription"
+  },
+  {
+    "id": 9,
+    "date": "2026-09-14",
+    "type": "income",
+    "category": "Salary",
+    "amount": 50000.0,
+    "description": "Monthly Salary"
+  },
+  {
+    "id": 10,
+    "date": "2026-09-14",
+    "type": "expense",
+    "category": "Rent & Housing",
+    "amount": 15000.0,
+    "description": "Apartment Rent"
+  }
+]

@@ -1,0 +1,4 @@
+# Personal Expense Tracker - Dependencies
+# This project is built using Python 3 standard library modules (json, datetime, dataclasses, os, sys).
+# Zero external packages are required to run the core application!
+# Python 3.8+ recommended.
