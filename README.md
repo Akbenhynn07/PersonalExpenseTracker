@@ -11,9 +11,7 @@ A lightweight, robust, and interactive Command-Line Personal Expense Tracker bui
 > 2. Generating the summary report with percentage breakdown bars.
 > 3. Closing and restarting the application to verify that data persists seamlessly in `expenses.json`.
 
-https://github.com/user-attachments/assets/demo-expense-tracker-walkthrough.mp4
-
-*(If viewing outside GitHub or if the inline video player is not supported by your browser, you can also watch the video directly on [YouTube / Loom Demo Link](https://youtu.be/placeholder-demo-link) or review the quick demo preview below).*
+https://github.com/user-attachments/assets/4e6c80d0-f63b-4a5e-95de-e1653f9cd190
 
 ```
 =============================================================
@@ -29,7 +27,6 @@ https://github.com/user-attachments/assets/demo-expense-tracker-walkthrough.mp4
  [6] [i] View Data File Info
  [7] [q] Exit
 ```
-
 ---
 
 ## Key Features
